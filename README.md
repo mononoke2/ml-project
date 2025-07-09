@@ -33,6 +33,8 @@ Il progetto è **completamente riproducibile su Kaggle**: ogni notebook carica d
 | YOLOv10n        | 0.8437     | 0.4830  | 0.5871 | 0.2981   | 0.3270  |
 | Faster R-CNN    | 0.7956     | 0.7435  | —      | —        | —       |
 
+I precedenti risultati sono stati calcolati sul test set.
+
 ## 5. Risultati e considerazioni
 - **YOLOv8m** eccelle in precisione, ideale per ambienti real-time ad alta affidabilità
 - **YOLOv11s** è il miglior compromesso tra accuratezza e leggerezza
