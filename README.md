@@ -23,7 +23,7 @@ Il progetto è **completamente riproducibile su Kaggle**: ogni notebook carica d
 ## 3. Dataset
 - Dataset annotato manualmente e formattato sia per YOLO (TXT) che COCO (JSON)
 - Strutturato in `train/`, `val/`, `test/` per immagini e annotazioni
-- Contiene esclusivamente la classe "persona"
+- Contiene esclusivamente la classe "persona": 0
 
 ## 4. Modelli testati
 | Model           | Precision  | Recall  | mAP50  | mAP50-95 | Fitness |
